@@ -1,0 +1,38 @@
+body { 
+    background-color: #FCEBB6;
+    color: #221811;
+    font-family: 'Poor Story', serif;
+}
+h1 {
+    background-color: #D2B48C;
+    color: #8C3826;
+    text-align: center;
+    line-height: 200%;
+}
+nav {
+    background-color: #FEFAEB;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+h2 {
+    background-color: #FEFAEB;
+    color:#8C3826;
+}
+main {
+    background-color: #FEFAEB;
+    color: #221811;
+}
+footer {
+    background-color: #D2B48C;
+    font-size: .60em;
+    font-style: italic;
+    text-align: center;
+}
+#wrapper {
+    background-color: #FEFAEB;
+    width: 80%;
+    margin-right:auto;
+    margin-left:auto;
+}
