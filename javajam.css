@@ -18,7 +18,7 @@ body {
 
 header {
 	background-color: #D2B48C;
-	background-image: url(images/cup.jpg);
+	background-image: url(image/coffeecup.jpg);
 	background-repeat: no-repeat;
 	color: #231814;
 	height: 128px;
@@ -138,28 +138,28 @@ img {
 
 #homehero {
 	height: 300px;
-	background-image: url(images/road.jpg);
+	background-image: url(image/fadedroad50.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 
 #heromugs {
 	height: 300px;
-	background-image: url(images/threemugs.jpg);
+	background-image: url(image/mugs.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 
 #heroguitar {
 	height: 300px;
-	background-image: url(images/guitar.jpg);
+	background-image: url(image/heroguitar.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
 
 #herojobs {
 	height: 300px;
-	background-image: url(images/coffeecup.jpg);
+	background-image: url(image/heromugs.jpg);
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 }
@@ -229,16 +229,16 @@ textarea {
 	}
 
 	#homehero {
-		background-image: url(images/hero.jpg);
+		background-image: url(image/hero.jpg);
 		height: 50vh;
 	}
 
 	#heromugs {
-		background-image: url(images/heromugs.jpg);
+		background-image: url(image/heromugs.jpg);
 	}
 
 	#heroguitar {
-		background-image: url(images/heroguitar.jpg);
+		background-image: url(image/heroguitar.jpg);
 	}
 
 	#flow {
@@ -278,7 +278,7 @@ textarea {
 	}
 
 	#herojobs {
-		background-image: url(images/herojobs.jpg)
+		background-image: url(image/herojobs.jpg)
 	}
 }
 
@@ -315,7 +315,7 @@ textarea {
 		}
 
 		header {
-			background-image: url(images/coffeelogo.jpg);
+			background-image: url(image/coffeelogo.jpg);
 		}
 	}
 }
